@@ -1,0 +1,6 @@
+{
+  "name": "Daniel // Protocol 17 - Classified Birthday Terminal",
+  "description": "Classified cybersecurity terminal birthday surprise experience for Daniel turning 17, featuring interactive missions, encrypted memories, cyber stats, and custom Easter eggs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
